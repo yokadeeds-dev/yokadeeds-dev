@@ -15,5 +15,3 @@ and I **measure** whether they work: golden sets, deterministic CI gates, DeepEv
 **Stack** · Python · FastAPI · Anthropic API (tool use, structured outputs, prompt caching) · MCP · Postgres/pgvector · Redis · React/TypeScript · Docker · GitHub Actions
 
 **How I work** · Tests and evaluation before claims · decisions written down as ADRs · honest about limits
-
-📫 Open for freelance projects — remote, German / English.
