@@ -1,5 +1,3 @@
-### Hi, I'm Yoka 👋
-
 I build LLM features with Claude — agents that act on real systems, RAG assistants, MCP servers —
 and I **measure** whether they work: golden sets, deterministic CI gates, DeepEval + RAGAS with a calibrated judge.
 
